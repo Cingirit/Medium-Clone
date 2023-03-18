@@ -1,0 +1,10 @@
+.bg-yellow{
+    background-color: #ffc017;
+}
+
+.font-style{
+    font-family: 'PT Serif', serif;
+}
+.buttons > li{
+    margin-bottom: 10px;
+}
